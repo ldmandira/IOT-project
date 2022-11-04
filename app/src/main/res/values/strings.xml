@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartDoor</string>
+    <string name="block_permission">Block permission</string>
+    <string name="give_permission">Give permission</string>
+</resources>

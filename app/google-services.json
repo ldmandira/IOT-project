@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873266736337",
+    "firebase_url": "https://doorlock-f5b7f-default-rtdb.firebaseio.com",
+    "project_id": "doorlock-f5b7f",
+    "storage_bucket": "doorlock-f5b7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873266736337:android:9e14f706f10bf88d14a9f0",
+        "android_client_info": {
+          "package_name": "com.example.smartdoor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873266736337-6jiobefir7qnetvhrrv20huh3b59n5g3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFe-O3vZ5xnmTIoJrrsz6vVzlnQ8rqlUI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873266736337-6jiobefir7qnetvhrrv20huh3b59n5g3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
