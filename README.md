@@ -10,3 +10,7 @@ If you have any finger problem or someone want to open the door, they can use pa
 
 
 My contribution of this project is to create signup page and system menu page.
+
+![image](https://user-images.githubusercontent.com/68580812/199951174-440f56b1-edce-4b85-a3a0-f2a183eb060b.png)
+
+![image](https://user-images.githubusercontent.com/68580812/199951336-e52ffc88-34d9-45a7-82c7-a4935de592ba.png)
