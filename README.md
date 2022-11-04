@@ -5,6 +5,8 @@ Fingerprint acknowledgment and password are most secure systems because a finger
 This system work on password concept too. 
 If you have any finger problem or someone want to open the door, they can use password. There are several advantages of the biometric lock. Firstly, it is secure, unapproved individuals will not have any probability of accessing the framework. Besides, there is no requirement for a key.
 
+![image](https://user-images.githubusercontent.com/68580812/199950906-c0c8f1bf-a34b-4902-a804-57974da17154.png)
+
 
 
 My contribution of this project is to create signup page and system menu page.
